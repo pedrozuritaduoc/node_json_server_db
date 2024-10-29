@@ -1,0 +1,50 @@
+C:\Node\proyecto-json-server> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (proyecto-json-server)
+version: (1.0.0) 0.0.1
+description: Armaremos un pequenno servidor con info de cursos
+entry point: (index.js) app.js
+test command:
+git repository:
+keywords:
+author: Sergie Code
+license: (ISC)
+About to write to C:\Node\proyecto-json-server\package.json:
+
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Armaremos un pequenno servidor con info de cursos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergie Code",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+
+PS C:\Node\proyecto-json-server>
+
+
+--json server
+npm i json-server
+
+
+--se inicia con 
+npm start   
+
+
+
+
